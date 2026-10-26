@@ -1,0 +1,38 @@
+{
+  "name": "@geomelon/north-macedonia",
+  "version": "1.0.0",
+  "description": "Geomelon city/region/country data for North Macedonia — 1810 cities, multilingual names, sourced from Wikidata.",
+  "keywords": [
+    "geomelon",
+    "cities",
+    "geography",
+    "north-macedonia",
+    "north macedonia"
+  ],
+  "license": "CC0-1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/930m310n/geomelon-data-north-macedonia.git"
+  },
+  "homepage": "https://geomelon.dev",
+  "bugs": {
+    "url": "https://github.com/930m310n/geomelon-data-north-macedonia/issues"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@geomelon/data-query": "^1.0.0"
+  },
+  "files": [
+    "data.json",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE",
+    "ATTRIBUTION.md",
+    "CHANGELOG.md"
+  ]
+}
